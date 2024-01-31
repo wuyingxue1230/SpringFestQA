@@ -1,5 +1,8 @@
 # SpringFestQA（年关走亲访友渡劫助手）
+![Uploading logo.png…]()
+
 ![1706628364793](https://github.com/Lyusijie/SpringFestQA/assets/48045292/29eb94dd-c63b-4c7b-93e4-f75e56ac2d61)
+
 
 ## 介绍
   ***SpringFestQA（年关走亲访友渡劫助手）***
