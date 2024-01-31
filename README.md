@@ -1,5 +1,9 @@
 # SpringFestQA（年关走亲访友渡劫助手）
-![logo2](https://github.com/wuyingxue1230/SpringFestQA/assets/46773531/bc7da14d-52be-455c-8ea5-e14f10dc7388)#pic_center
+![logo2](https://github.com/wuyingxue1230/SpringFestQA/assets/46773531/bc7da14d-52be-455c-8ea5-e14f10dc7388)
+
+<div align="center">
+    < img src="![logo2](https://github.com/wuyingxue1230/SpringFestQA/assets/46773531/bc7da14d-52be-455c-8ea5-e14f10dc7388)" alt="Your Image">
+</div>
 
 ## 介绍
   ***SpringFestQA（年关走亲访友渡劫助手）***
