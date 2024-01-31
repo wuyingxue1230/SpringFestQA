@@ -1,5 +1,6 @@
 # SpringFestQA（年关走亲访友渡劫助手）
-![Uploading logo2.png…]()
+![logo2](https://github.com/wuyingxue1230/SpringFestQA/assets/46773531/bc7da14d-52be-455c-8ea5-e14f10dc7388)
+
 
 ![1706628364793](https://github.com/Lyusijie/SpringFestQA/assets/48045292/29eb94dd-c63b-4c7b-93e4-f75e56ac2d61)
 
