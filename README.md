@@ -1,15 +1,12 @@
 # SpringFestQA（年关走亲访友渡劫助手）
-![logo2](https://github.com/wuyingxue1230/SpringFestQA/assets/46773531/bc7da14d-52be-455c-8ea5-e14f10dc7388)
-
-
-![1706628364793](https://github.com/Lyusijie/SpringFestQA/assets/48045292/29eb94dd-c63b-4c7b-93e4-f75e56ac2d61)
-
+                                                             ![logo2](https://github.com/wuyingxue1230/SpringFestQA/assets/46773531/bc7da14d-52be-455c-8ea5-e14f10dc7388)
 
 ## 介绍
   ***SpringFestQA（年关走亲访友渡劫助手）***
 收集了网络上中国春节的怼亲戚语录，基于InternLM2进行微调以及检索增强链生成的模仿年轻人语气对亲戚提问作出巧妙回答的语言模型。过年走亲访友过程中，难免遇到亲戚的热辣提问让你不知所措，还在为躺在床上才回想起来如何回怼而感到懊恼吗？直接将棘手的提问交给大模型，让亲戚哑口无言。
 
 在可视化网页界面中，我们提供了三种不同的回答风格：委婉认真、转换话题和阴阳怪气，以满足不同性格的人的回答需求。通过直接点击右侧的按钮，可以生成对应风格的回答。
+![1706628364793](https://github.com/Lyusijie/SpringFestQA/assets/48045292/29eb94dd-c63b-4c7b-93e4-f75e56ac2d61)
 
 ***OpenXLab体验地址：***
 https://openxlab.org.cn/apps/detail/SijieLyu/SpringFestQA
